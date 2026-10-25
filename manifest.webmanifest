@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Universe Explorer",
+  "short_name": "Universe",
+  "description": "See where the planets are today, then test the physics that keeps them there.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#04050d",
+  "theme_color": "#04050d",
+  "lang": "en",
+  "categories": ["education", "science"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
